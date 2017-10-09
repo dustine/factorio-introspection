@@ -1,0 +1,11 @@
+{
+    "name": "introspection",
+    "version": "0.0.0",
+    "title": "Introspection (Scanning Satellites)",
+    "author": "Dustine",
+    "dependencies": ["base >= 0.15.34"],
+    "description": "Gives a new use to post-game satellite launches like, you know, facing you instead of deep space.",
+    "factorio_version": "0.15",
+    "homepage": "https://github.com/dustine/factorio-introspection",
+    "repository": "https://github.com/dustine/factorio-introspection"
+}
