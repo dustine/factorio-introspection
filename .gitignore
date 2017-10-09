@@ -39,3 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
+# Test-FactorioMod.ps1
+.cache/
+
+# Graphics
+graphics/**/*.svg
+graphics/.icon/
